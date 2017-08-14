@@ -1,0 +1,15 @@
+name: CustomMessages
+main: LaFuma\Main
+version: 1.0.0
+api: 3.0.0-ALPHA7
+commands:
+       gm1:
+         description: Gamemode 1
+       gm0:
+         description: Gamemode 0
+       heal:
+         description: heal ur self
+       feed:
+         description: feed ur self
+       size:
+         description: change ur scale
