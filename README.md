@@ -2,7 +2,7 @@
 
 Generate custom messages
 
-#Permissions
+# Permissions
 
 gm1 = gm1.lafuma
 gm0 = gm0.lafuma
